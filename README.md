@@ -7,7 +7,7 @@ I'm a Final year B.Tech Information Technology student and an aspiring Full Stac
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Java, Python, JavaScript, HTML/CSS
 * **Backend:** Spring Boot, Django, REST APIs
-* **Frontend:** React.js
+* **Frontend:** React.js,TailwindCSS
 * **Databases & Caching:** MySQL, Redis
 * **Tools & Version Control:** Git, GitHub, Postman
 
